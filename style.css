@@ -1,0 +1,19 @@
+
+.page__section{
+    background-color: burlywood;
+    padding: 300px 0;
+}
+.page__section-last{
+    background-color: coral;
+}
+.page__row{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.page__title{
+    text-align: center;
+}
+.page__container{
+    font-size: 36px;
+}
